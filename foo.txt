@@ -1,0 +1,3 @@
+Hey, this is foo.txt, which should be found by printfile,
+since the top-level project directory should have been
+added to file_search_usage by install_github.
